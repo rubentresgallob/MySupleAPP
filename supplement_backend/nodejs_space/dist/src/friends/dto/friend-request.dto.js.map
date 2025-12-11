@@ -1,0 +1,1 @@
+{"version":3,"file":"friend-request.dto.js","sourceRoot":"","sources":["../../../../src/friends/dto/friend-request.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qDAAsD;AACtD,6CAA8C;AAE9C,MAAa,gBAAgB;IAO3B,UAAU,CAAS;CACpB;AARD,4CAQC;AADC;IANC,IAAA,qBAAW,EAAC;QACX,OAAO,EAAE,SAAS;QAClB,WAAW,EAAE,yDAAyD;KACvE,CAAC;IACD,IAAA,0BAAQ,GAAE;IACV,IAAA,2BAAS,EAAC,CAAC,CAAC;;oDACM"}
